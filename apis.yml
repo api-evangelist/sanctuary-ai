@@ -1,0 +1,109 @@
+aid: sanctuary-ai
+name: Sanctuary AI
+description: >-
+  Sanctuary AI is a Vancouver, British Columbia humanoid robotics company
+  on a mission to create and deploy industrial-grade general-purpose humanoid
+  robots to help address growing labor challenges. Its flagship product is
+  Phoenix, a bipedal humanoid robot designed for dull, dirty, and dangerous
+  work in automotive, manufacturing, and logistics environments. Phoenix is
+  driven by Carbon, Sanctuary AI's proprietary AI control system that mimics
+  human cognitive subsystems — memory, sight, sound, and touch — to translate
+  natural-language tasks into dexterous physical actions. The company is
+  vertically integrated, designing everything from motors and actuators
+  through to generative AI algorithms in-house. Co-founded by James Wells
+  (CEO) and Olivia Norton (CTO/CPO), Sanctuary AI has a private GitHub
+  organization with no public repositories, no developer portal, no public
+  API, no SDK, and no published OpenAPI/AsyncAPI specifications. The
+  commercial model is hardware sales and enterprise deployments; Carbon is
+  a proprietary on-board system and there is no public developer surface.
+image: https://avatars.githubusercontent.com/u/124412682?v=4
+url: https://github.com/api-evangelist/sanctuary-ai
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+tags:
+  - Robotics
+  - Humanoid Robots
+  - General-Purpose Robots
+  - Embodied AI
+  - Industrial Robotics
+  - Manufacturing
+  - Automotive
+  - Logistics
+  - Phoenix
+  - Carbon AI
+  - Dexterous Manipulation
+  - Hardware
+  - Vancouver
+apis: []
+common:
+  - type: Website
+    url: https://sanctuary.ai
+  - type: Technology
+    url: https://sanctuary.ai/technology/
+  - type: AboutUs
+    url: https://sanctuary.ai/about/
+  - type: News
+    url: https://sanctuary.ai/news/
+  - type: Blog
+    url: https://sanctuary.ai/blog/
+  - type: Careers
+    url: https://sanctuary.ai/careers/
+  - type: ContactUs
+    url: https://sanctuary.ai/contact-us/
+  - type: IPNotice
+    url: https://sanctuary.ai/ip-notice/
+  - type: Terms
+    url: https://sanctuary.ai/terms/
+  - type: PrivacyPolicy
+    url: https://sanctuary.ai/privacy-policy/
+  - type: GitHubOrganization
+    url: https://github.com/Sanctuary-AI
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/sanctuary-cognitive-systems-corporation
+  - type: Twitter
+    url: https://twitter.com/TheSanctuaryAI
+  - type: Instagram
+    url: https://www.instagram.com/thesanctuaryai/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+x-type: company
+x-tier: 3
+x-tier-reason: no-apis
+x-public-apis: false
+x-developer-portal: false
+x-openapi: false
+x-asyncapi: false
+x-sdk: false
+x-cli: false
+x-webhooks: false
+x-status-page: false
+x-changelog: false
+x-pricing-page: false
+x-rss: false
+x-github-org: https://github.com/Sanctuary-AI
+x-github-org-public-repos: 0
+x-headquarters: Vancouver, British Columbia, Canada
+x-founders:
+  - James Wells (CEO)
+  - Olivia Norton (Co-Founder, CTO & CPO)
+x-products:
+  - name: Phoenix
+    description: Industrial-grade general-purpose bipedal humanoid robot
+  - name: Carbon
+    description: Proprietary AI control system mimicking human cognitive subsystems (memory, sight, sound, touch)
+x-research-notes: >-
+  As of 2026-05, sanctuary.ai's homepage, technology, about, news, blog, and
+  careers pages contain no developer portal, no public API documentation,
+  no SDKs, no CLI, no webhooks, no public OpenAPI/AsyncAPI specifications,
+  no status page, no changelog, and no published pricing. The Sanctuary-AI
+  GitHub organization (github.com/Sanctuary-AI, created 2023-02-04) exists
+  but has 0 public repositories, 0 followers, and 0 public gists. Sanctuary
+  AI is vertically integrated and treats its Carbon AI control system and
+  Phoenix robot software stack as proprietary on-board systems. The
+  commercial model is hardware sales and enterprise deployment partnerships
+  rather than a developer/API surface. No artifacts (openapi/, asyncapi/,
+  json-schema/, json-structure/, json-ld/, examples/, rules/, capabilities/,
+  vocabulary/, plans/, rate-limits/, finops/, crd/) were generated for this
+  repository because there is no underlying public API surface to back them.
