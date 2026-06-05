@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "sai": "https://sanctuary.ai/vocab#",
+    "robotics": "https://w3id.org/robotics#",
+
+    "SanctuaryAI": {
+      "@id": "sai:SanctuaryAI",
+      "@type": "@id"
+    },
+    "name": "schema:name",
+    "url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    },
+    "description": "schema:description",
+    "foundingLocation": "schema:foundingLocation",
+    "foundingDate": "schema:foundingDate",
+    "industry": "schema:industry",
+    "numberOfEmployees": "schema:numberOfEmployees",
+    "sameAs": {
+      "@id": "schema:sameAs",
+      "@type": "@id"
+    },
+
+    "HumanoidRobot": {
+      "@id": "sai:HumanoidRobot",
+      "@type": "@id"
+    },
+    "Phoenix": {
+      "@id": "sai:Phoenix",
+      "@type": "@id"
+    },
+    "Carbon": {
+      "@id": "sai:Carbon",
+      "@type": "@id"
+    },
+    "robotModel": {
+      "@id": "sai:robotModel",
+      "@type": "@id"
+    },
+    "aiControlSystem": {
+      "@id": "sai:aiControlSystem",
+      "@type": "@id"
+    },
+    "embodiedAI": {
+      "@id": "sai:embodiedAI"
+    },
+    "dexterousManipulation": {
+      "@id": "sai:dexterousManipulation"
+    },
+    "bipedal": {
+      "@id": "sai:bipedal",
+      "@type": "xsd:boolean"
+    },
+    "payload": {
+      "@id": "sai:payload",
+      "@type": "xsd:string"
+    },
+    "deploymentEnvironment": {
+      "@id": "sai:deploymentEnvironment"
+    },
+    "cognitiveSubsystem": {
+      "@id": "sai:cognitiveSubsystem"
+    },
+    "naturalLanguageControl": {
+      "@id": "sai:naturalLanguageControl",
+      "@type": "xsd:boolean"
+    },
+    "sensorModality": {
+      "@id": "sai:sensorModality"
+    },
+    "manufacturer": {
+      "@id": "schema:manufacturer",
+      "@type": "@id"
+    },
+    "product": {
+      "@id": "schema:product",
+      "@type": "@id"
+    },
+
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "schema": "https://schema.org/",
+    "owl": "http://www.w3.org/2002/07/owl#"
+  },
+  "@type": "schema:Organization",
+  "@id": "https://sanctuary.ai",
+  "name": "Sanctuary AI",
+  "url": "https://sanctuary.ai",
+  "description": "Vancouver-based humanoid robotics company creating industrial-grade general-purpose humanoid robots driven by the Carbon AI control system.",
+  "foundingLocation": "Vancouver, British Columbia, Canada",
+  "industry": "Industrial Robotics",
+  "sameAs": [
+    "https://github.com/Sanctuary-AI",
+    "https://www.linkedin.com/company/sanctuary-cognitive-systems-corporation",
+    "https://twitter.com/TheSanctuaryAI"
+  ],
+  "product": [
+    {
+      "@type": "HumanoidRobot",
+      "@id": "sai:Phoenix",
+      "name": "Phoenix",
+      "description": "Industrial-grade general-purpose bipedal humanoid robot for dull, dirty, and dangerous work.",
+      "bipedal": true,
+      "deploymentEnvironment": ["automotive", "manufacturing", "logistics"]
+    },
+    {
+      "@type": "sai:AIControlSystem",
+      "@id": "sai:Carbon",
+      "name": "Carbon",
+      "description": "Proprietary AI control system that mimics human cognitive subsystems to translate natural-language tasks into dexterous physical actions.",
+      "naturalLanguageControl": true,
+      "cognitiveSubsystem": ["memory", "sight", "sound", "touch"]
+    }
+  ]
+}

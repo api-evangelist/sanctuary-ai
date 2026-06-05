@@ -1,0 +1,136 @@
+vocabulary:
+  name: Sanctuary AI Vocabulary
+  description: >-
+    Key concepts and terminology covering humanoid robotics, embodied AI, and
+    industrial automation as practised by Sanctuary AI and the broader
+    humanoid-robot industry.
+  version: "1.0.0"
+  terms:
+    - term: Humanoid Robot
+      definition: >-
+        A robot with a body shape and locomotion strategy modelled on the human
+        form, typically featuring a bipedal lower body, two arms, and a head,
+        enabling it to operate in environments and with tools designed for humans.
+      tags:
+        - robotics
+        - hardware
+        - embodied-ai
+
+    - term: Phoenix
+      definition: >-
+        Sanctuary AI's flagship industrial-grade, general-purpose bipedal
+        humanoid robot designed for dull, dirty, and dangerous tasks in
+        automotive, manufacturing, and logistics settings.
+      tags:
+        - product
+        - humanoid-robot
+        - industrial
+
+    - term: Carbon
+      definition: >-
+        Sanctuary AI's proprietary AI control system that models human cognitive
+        subsystems — memory, sight, sound, and touch — to translate
+        natural-language instructions into coordinated, dexterous physical actions.
+      tags:
+        - product
+        - ai-system
+        - control-software
+
+    - term: Embodied AI
+      definition: >-
+        Artificial intelligence that is grounded in a physical body and
+        interacts with the world through perception and action, as opposed to
+        purely digital or disembodied AI systems.
+      tags:
+        - ai
+        - robotics
+        - research
+
+    - term: Dexterous Manipulation
+      definition: >-
+        The ability of a robotic system to grasp, handle, and precisely
+        manipulate objects in ways analogous to human hand and finger motion,
+        including fine motor tasks such as assembly or tool use.
+      tags:
+        - robotics
+        - manipulation
+        - hardware
+
+    - term: General-Purpose Robot
+      definition: >-
+        A robot capable of performing a wide variety of tasks across different
+        domains without being hardwired for a single job, in contrast to
+        traditional fixed-function industrial robots.
+      tags:
+        - robotics
+        - automation
+        - flexibility
+
+    - term: Bipedal Locomotion
+      definition: >-
+        A mode of movement in which a robot walks on two legs, enabling it to
+        navigate stairs, uneven terrain, and narrow aisles sized for humans.
+      tags:
+        - robotics
+        - locomotion
+        - hardware
+
+    - term: Vertical Integration
+      definition: >-
+        A manufacturing and development strategy in which a company designs and
+        produces the full stack — from actuators and motors through to AI
+        algorithms — in-house rather than relying on third-party components.
+      tags:
+        - business
+        - manufacturing
+        - strategy
+
+    - term: Natural-Language Task Specification
+      definition: >-
+        The ability of a robot's control system to accept a task description
+        expressed in plain human language (e.g. "pack these boxes") and
+        autonomously plan and execute the required physical actions.
+      tags:
+        - ai
+        - nlp
+        - control
+
+    - term: Industrial Automation
+      definition: >-
+        The use of control systems such as robots, PLCs, and software to
+        operate industrial processes with minimal human intervention, increasing
+        throughput, consistency, and safety.
+      tags:
+        - manufacturing
+        - automation
+        - operations
+
+    - term: Actuator
+      definition: >-
+        A powered mechanical component that converts control signals into
+        physical motion — e.g. a motor or hydraulic cylinder — forming the
+        effectors of a robot's joints and limbs.
+      tags:
+        - hardware
+        - robotics
+        - mechanics
+
+    - term: Sensor Fusion
+      definition: >-
+        The process of combining data from multiple sensors (cameras, IMUs,
+        force sensors, microphones) into a unified perception model that gives
+        the robot situational awareness.
+      tags:
+        - perception
+        - ai
+        - robotics
+
+    - term: Labor Augmentation
+      definition: >-
+        The deployment of humanoid robots or automation alongside human workers
+        to handle physically demanding, repetitive, or hazardous tasks,
+        effectively expanding the productive capacity of the workforce.
+      tags:
+        - workforce
+        - manufacturing
+        - strategy
