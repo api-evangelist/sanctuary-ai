@@ -37,6 +37,8 @@ tags:
   - Vancouver
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/sanctuary-ai-domain-security.yml
   - type: Website
     url: https://sanctuary.ai
   - type: Technology
