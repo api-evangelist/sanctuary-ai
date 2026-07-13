@@ -2,11 +2,11 @@
   "repo": "sanctuary-ai",
   "feeds": [
     {
-      "source": "https://sanctuary.ai/blog/",
+      "source": "https://sanctuary.ai/feed/",
       "feed_url": "https://sanctuary.ai/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
     },
     {
       "source": "https://sanctuary.ai/news/",
@@ -16,6 +16,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 2,
-  "fetched": "2026-06-27T12:03:07Z"
+  "post_count": 10,
+  "fetched": "2026-07-11T11:50:51Z"
 }
