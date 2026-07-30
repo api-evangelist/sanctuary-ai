@@ -16,6 +16,17 @@ description: >-
   API, no SDK, and no published OpenAPI/AsyncAPI specifications. The
   commercial model is hardware sales and enterprise deployments; Carbon is
   a proprietary on-board system and there is no public developer surface.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://avatars.githubusercontent.com/u/124412682?v=4
 url: https://github.com/api-evangelist/sanctuary-ai
 created: '2026-05-24'
