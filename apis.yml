@@ -16,6 +16,17 @@ description: >-
   API, no SDK, and no published OpenAPI/AsyncAPI specifications. The
   commercial model is hardware sales and enterprise deployments; Carbon is
   a proprietary on-board system and there is no public developer surface.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
