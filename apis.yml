@@ -40,6 +40,8 @@ accessModel:
   method: derived
 image: https://avatars.githubusercontent.com/u/124412682?v=4
 url: https://github.com/api-evangelist/sanctuary-ai
+x-api-posture: no-product-api
+x-api-posture-basis: observed
 created: '2026-05-24'
 modified: '2026-05-24'
 specificationVersion: '0.23'
