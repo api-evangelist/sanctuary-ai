@@ -1,0 +1,27 @@
+# Front Door AI Index — sanctuary-ai — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: sanctuary-ai
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: sanctuary.ai
+  final_host: sanctuary.ai
+  ownership: own
+  owner: sanctuary-ai
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 74
+  host_score: 74
+  density: 67.4
+  words: 1098
+  tiers:
+    agentic: 0
+    core: 74
+    model: 0
+  ambiguous: 9
+  top_terms:
+    AI: 74
+    automation: 8
+    cognitive: 1
